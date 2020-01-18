@@ -1,6 +1,7 @@
 site_name: My Docs
 theme:
-  name: 'readthedocs'
+  #name: 'readthedocs'
+  name: 'material'
   #feature:
   #  tabs: true
 # Extensions
@@ -15,7 +16,6 @@ plugins:
   - search
 
 extra_javascript:
-    #- https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
     - https://unpkg.com/mermaid@8.4.5/dist/mermaid.min.js
     - https://unpkg.com/jquery@3.4.1/dist/jquery.min.js
 

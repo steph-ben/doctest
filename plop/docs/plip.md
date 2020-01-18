@@ -29,8 +29,9 @@ fseqjkflsejlk
 
 ## Plouf
 
+<script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
 
-<script>
+<script type="text/javascript">
 $("path#ppp").click(function(){$("#plouf")[0].scrollIntoView(true)})
 </script>
 
